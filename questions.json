@@ -1,52 +1,52 @@
 [
+{
+"QuestionText": "Which team won the 2018 FIFA World Cup?",
+"answers": ["France", "Germany", "Spain", "Brazil"],
+    "CorrectAnswer": "France"
+},
   {
-    "questionText": "Какая команда выиграла Чемпионат мира по футболу 2018 года?",
-    "answers": ["Франция", "Германия", "Испания", "Бразилия"],
-    "correctAnswer": "Франция"
-  },
+"QuestionText": "Who is the record holder for the most goals in the UEFA Champions League?",
+"answers": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Karim Benzema"],
+"CorrectAnswer": "Cristiano Ronaldo"
+},
   {
-    "questionText": "Кто является рекордсменом по количеству голов в Лиге чемпионов УЕФА?",
-    "answers": ["Лионель Месси", "Криштиану Роналду", "Роберт Левандовский", "Карим Бензема"],
-    "correctAnswer": "Криштиану Роналду"
-  },
-  {
-    "questionText": "В каком году была основана Национальная хоккейная лига (НХЛ)?",
-    "answers": ["1917", "1920", "1936", "1942"],
+"QuestionText": "In what year was the National Hockey League (NHL) founded?",
+"answers": ["1917", "1920", "1936", "1942"],
     "correctAnswer": "1917"
   },
   {
-    "questionText": "Как называется самый престижный турнир по теннису?",
-    "answers": ["Australian Open", "Wimbledon", "US Open", "French Open"],
+"QuestionText": "What is the name of the most prestigious tennis tournament?",
+"answers": ["Australian Open", "Wimbledon", "US Open", "French Open"],
     "correctAnswer": "Wimbledon"
   },
   {
-    "questionText": "Кто был первым чемпионом мира по боксу в тяжелом весе?",
-    "answers": ["Майк Тайсон", "Мухаммед Али", "Джек Джонсон", "Джо Луис"],
-    "correctAnswer": "Джек Джонсон"
-  },
+"QuestionText": "Who was the first heavyweight boxing champion of the world?",
+"answers": ["Mike Tyson", "Muhammad Ali", "Jack Johnson", "Joe Louis"],
+"CorrectAnswer": "Jack Johnson"
+},
   {
-    "questionText": "Какое количество игроков в команде по волейболу?",
-    "answers": ["5", "6", "7", "8"],
-    "correctAnswer": "6"
-  },
+"QuestionText": "How many players are on the volleyball team?",
+"answers": ["5", "6", "7", "8"],
+" CorrectAnswer": "6"
+},
+{
+    "QuestionText": "In what year were the first Olympic Games of our time held?",
+"answers": ["1896", "1900", "1924", "1948"],
+" CorrectAnswer": "1896"
+},
   {
-    "questionText": "В каком году прошли первые Олимпийские игры современности?",
-    "answers": ["1896", "1900", "1924", "1948"],
-    "correctAnswer": "1896"
-  },
+"QuestionText": "Who is the current world chess champion (as of 2024)?",
+"answers": ["Magnus Carlsen", "Viswanathan Anand", "Ding Liren", "Yang Nepomnyashchy"],
+    "CorrectAnswer": "Ding Liren"
+},
   {
-    "questionText": "Кто является действующим чемпионом мира по шахматам (по состоянию на 2024 год)?",
-    "answers": ["Магнус Карлсен", "Вишванатан Ананд", "Дин Лижэнь", "Ян Непомнящий"],
-    "correctAnswer": "Дин Лижэнь"
-  },
-  {
-    "questionText": "Какой вид спорта считается самым старым в мире?",
-    "answers": ["Борьба", "Легкая атлетика", "Плавание", "Гимнастика"],
-    "correctAnswer": "Борьба"
-  },
-  {
-    "questionText": "Какой баскетболист набрал наибольшее количество очков за карьеру в НБА?",
-    "answers": ["Карим Абдул-Джаббар", "Леброн Джеймс", "Коби Брайант", "Майкл Джордан"],
-    "correctAnswer": "Карим Абдул-Джаббар"
-  }
+"QuestionText": "Which sport is considered the oldest in the world?",
+"answers": ["Wrestling", "Athletics", "Swimming", "Gymnastics"],
+"CorrectAnswer": "Wrestling"
+},
+{
+    "QuestionText": "Which basketball player scored the most points in his NBA career?",
+"answers": ["Kareem Abdul-Jabbar", "LeBron James", "Kobe Bryant", "Michael Jordan"],
+"CorrectAnswer": "Kareem Abdul-Jabbar"
+}
 ]

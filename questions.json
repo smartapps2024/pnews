@@ -1,52 +1,52 @@
 [
 {
-"QuestionText": "Which team won the 2018 FIFA World Cup?",
+"questionText": "Which team won the 2018 FIFA World Cup?",
 "answers": ["France", "Germany", "Spain", "Brazil"],
-    "CorrectAnswer": "France"
+"correctAnswer": "France"
 },
   {
-"QuestionText": "Who is the record holder for the most goals in the UEFA Champions League?",
+"questionText": "Who is the record holder for the most goals in the UEFA Champions League?",
 "answers": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Karim Benzema"],
-"CorrectAnswer": "Cristiano Ronaldo"
+"correctAnswer": "Cristiano Ronaldo"
 },
   {
-"QuestionText": "In what year was the National Hockey League (NHL) founded?",
+"questionText": "In what year was the National Hockey League (NHL) founded?",
 "answers": ["1917", "1920", "1936", "1942"],
-    "correctAnswer": "1917"
+"correctAnswer": "1917"
   },
   {
 "QuestionText": "What is the name of the most prestigious tennis tournament?",
 "answers": ["Australian Open", "Wimbledon", "US Open", "French Open"],
-    "correctAnswer": "Wimbledon"
+"correctAnswer": "Wimbledon"
   },
   {
-"QuestionText": "Who was the first heavyweight boxing champion of the world?",
+"questionText": "Who was the first heavyweight boxing champion of the world?",
 "answers": ["Mike Tyson", "Muhammad Ali", "Jack Johnson", "Joe Louis"],
-"CorrectAnswer": "Jack Johnson"
+"correctAnswer": "Jack Johnson"
 },
   {
-"QuestionText": "How many players are on the volleyball team?",
+"questionText": "How many players are on the volleyball team?",
 "answers": ["5", "6", "7", "8"],
-" CorrectAnswer": "6"
+"correctAnswer": "6"
 },
 {
-    "QuestionText": "In what year were the first Olympic Games of our time held?",
+"questionText": "In what year were the first Olympic Games of our time held?",
 "answers": ["1896", "1900", "1924", "1948"],
-" CorrectAnswer": "1896"
+" correctAnswer": "1896"
 },
   {
-"QuestionText": "Who is the current world chess champion (as of 2024)?",
+"questionText": "Who is the current world chess champion (as of 2024)?",
 "answers": ["Magnus Carlsen", "Viswanathan Anand", "Ding Liren", "Yang Nepomnyashchy"],
-    "CorrectAnswer": "Ding Liren"
+"correctAnswer": "Ding Liren"
 },
   {
-"QuestionText": "Which sport is considered the oldest in the world?",
+"questionText": "Which sport is considered the oldest in the world?",
 "answers": ["Wrestling", "Athletics", "Swimming", "Gymnastics"],
-"CorrectAnswer": "Wrestling"
+"correctAnswer": "Wrestling"
 },
 {
-    "QuestionText": "Which basketball player scored the most points in his NBA career?",
+"questionText": "Which basketball player scored the most points in his NBA career?",
 "answers": ["Kareem Abdul-Jabbar", "LeBron James", "Kobe Bryant", "Michael Jordan"],
-"CorrectAnswer": "Kareem Abdul-Jabbar"
+"correctAnswer": "Kareem Abdul-Jabbar"
 }
 ]

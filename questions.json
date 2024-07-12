@@ -15,7 +15,7 @@
 "correctAnswer": "1917"
   },
   {
-"QuestionText": "What is the name of the most prestigious tennis tournament?",
+"questionText": "What is the name of the most prestigious tennis tournament?",
 "answers": ["Australian Open", "Wimbledon", "US Open", "French Open"],
 "correctAnswer": "Wimbledon"
   },
@@ -24,7 +24,7 @@
 "answers": ["Mike Tyson", "Muhammad Ali", "Jack Johnson", "Joe Louis"],
 "correctAnswer": "Jack Johnson"
 },
-  {
+{
 "questionText": "How many players are on the volleyball team?",
 "answers": ["5", "6", "7", "8"],
 "correctAnswer": "6"
@@ -32,14 +32,14 @@
 {
 "questionText": "In what year were the first Olympic Games of our time held?",
 "answers": ["1896", "1900", "1924", "1948"],
-" correctAnswer": "1896"
+"correctAnswer": "1896"
 },
-  {
+{
 "questionText": "Who is the current world chess champion (as of 2024)?",
 "answers": ["Magnus Carlsen", "Viswanathan Anand", "Ding Liren", "Yang Nepomnyashchy"],
 "correctAnswer": "Ding Liren"
 },
-  {
+{
 "questionText": "Which sport is considered the oldest in the world?",
 "answers": ["Wrestling", "Athletics", "Swimming", "Gymnastics"],
 "correctAnswer": "Wrestling"

@@ -1,52 +1,156 @@
 [
 {
-"questionText": "Which team won the 2018 FIFA World Cup?",
-"answers": ["France", "Germany", "Spain", "Brazil"],
-"correctAnswer": "France"
+"QuestionText": "Which company owns Liverpool Football Club?",
+"answers": ["Fenway Sports Group", "Kroenke Sports & Entertainment", "City Football Group", "Red Bull GmbH"],
+"CorrectAnswer": "Fenway Sports Group"
 },
   {
-"questionText": "Who is the record holder for the most goals in the UEFA Champions League?",
-"answers": ["Lionel Messi", "Cristiano Ronaldo", "Robert Lewandowski", "Karim Benzema"],
-"correctAnswer": "Cristiano Ronaldo"
-},
-  {
-"questionText": "In what year was the National Hockey League (NHL) founded?",
-"answers": ["1917", "1920", "1936", "1942"],
-"correctAnswer": "1917"
+"QuestionText": "Who became the youngest Formula 1 champion?",
+"answers": ["Lewis Hamilton", "Sebastian Vettel", "Fernando Alonso", "Max Verstappen"],
+    "correctAnswer": "Sebastian Vettel"
   },
   {
-"questionText": "What is the name of the most prestigious tennis tournament?",
-"answers": ["Australian Open", "Wimbledon", "US Open", "French Open"],
-"correctAnswer": "Wimbledon"
+"QuestionText": "In what sport are they competing for the America's Cup?",
+"answers": ["Yachting", "Tennis", "Rugby", "Football"],
+    "CorrectAnswer": "Yachting"
+},
+  {
+"QuestionText": "What sports record does Richard Petit, an American racing driver, hold?",
+"answers": ["Most wins in a NASCAR season", "Fastest lap at the Daytona 500", "Most poles in Formula 1", "Most wins in Lehman"],
+"CorrectAnswer": "Most wins in a NASCAR season"
+},
+  {
+"QuestionText": "Which basketball player was the first to score more than 30,000 points in his NBA career?",
+"answers": ["Kareem Abdul-Jabbar", "Karl Malone", "LeBron James", "Michael Jordan"],
+    "correctAnswer": "Kareem Abdul-Jabbar"
   },
   {
-"questionText": "Who was the first heavyweight boxing champion of the world?",
-"answers": ["Mike Tyson", "Muhammad Ali", "Jack Johnson", "Joe Louis"],
-"correctAnswer": "Jack Johnson"
+    "QuestionText": "What is the national sport in Japan?",
+"answers": ["Kendo", "Judo", "Sumo", "Kyudo"],
+"CorrectAnswer": "Sumo"
+},
+  {
+"QuestionText": "Which club won the first UEFA Champions League championship?",
+"answers": ["Real Madrid", "AC Milan", "Benfica", "Ajax"],
+"CorrectAnswer": "Real Madrid"
+},
+  {
+"QuestionText": "Which athlete has the most medals at the Olympic Games?",
+"answers": ["Michael Phelps", "Larisa Latynina", "Usain Bolt", "Carl Lewis"],
+"CorrectAnswer": "Michael Phelps"
 },
 {
-"questionText": "How many players are on the volleyball team?",
-"answers": ["5", "6", "7", "8"],
-"correctAnswer": "6"
+    "QuestionText": "Which tennis player has won the most Grand Slam singles titles?",
+"answers": ["Rafael Nadal", "Roger Federer", "Novak Djokovic", "Pete Sampras"],
+"CorrectAnswer": "Novak Djokovic"
 },
-{
-"questionText": "In what year were the first Olympic Games of our time held?",
-"answers": ["1896", "1900", "1924", "1948"],
-"correctAnswer": "1896"
-},
-{
-"questionText": "Who is the current world chess champion (as of 2024)?",
-"answers": ["Magnus Carlsen", "Viswanathan Anand", "Ding Liren", "Yang Nepomnyashchy"],
-"correctAnswer": "Ding Liren"
-},
-{
-"questionText": "Which sport is considered the oldest in the world?",
-"answers": ["Wrestling", "Athletics", "Swimming", "Gymnastics"],
-"correctAnswer": "Wrestling"
+  {
+"QuestionText": "Which football club was the first to reach 100 trophies in its history?",
+"answers": ["Real Madrid", "FC Barcelona", "Manchester United", "Bayern Munich"],
+"CorrectAnswer": "FC Barcelona"
 },
 {
 "questionText": "Which basketball player scored the most points in his NBA career?",
 "answers": ["Kareem Abdul-Jabbar", "LeBron James", "Kobe Bryant", "Michael Jordan"],
 "correctAnswer": "Kareem Abdul-Jabbar"
-}
+},
+  {
+"QuestionText": "Who became the first tennis player to win all four Grand Slam tournaments twice in the open era?",
+"answers": ["Rafael Nadal", "Novak Djokovic", "Roger Federer", "Rod Laver"],
+"CorrectAnswer": "Novak Djokovic"
+},
+  {
+"QuestionText": "Which country won the first baseball World Series?",
+"answers": ["United States", "Cuba", "Japan", "Canada"],
+"CorrectAnswer": "United States"
+},
+  {
+"QuestionText": "Which basketball player was the first to score 100 points in one NBA game?",
+    "answers": ["Wilt Chamberlain", "Michael Jordan", "LeBron James", "Kobe Bryant"],
+    "correctAnswer": "Wilt Chamberlain"
+  },
+  {
+"QuestionText": "Which runner broke the world record in the 100 meters in 2009?",
+"answers": ["Usain Bolt", "Tyson Gay", "Yohan Blake", "Asafa Powell"],
+"CorrectAnswer": "Usain Bolt"
+},
+  {
+"QuestionText": "Which club won the longest cricket match in history?",
+"answers": ["England", "Australia", "South Africa", "India"],
+    "CorrectAnswer": "England"
+},
+{
+    "QuestionText": "Who won the first race at the Summer Olympics in Athens in 1896?",
+"answers": ["Thomas Burke", "Spyridon Louis", "Edwin Flack", "Carl Schuhmann"],
+    "correctAnswer": "Thomas Burke"
+  },
+  {
+"QuestionText": "Which NFL team (NFL) has the most Super Bowl wins?",
+"answers": ["New England Patriots", "Pittsburgh Steelers", "Dallas Cowboys", "San Francisco 49ers"],
+"CorrectAnswer": "New England Patriots"
+},
+  {
+"QuestionText": "Who is the record holder for the number of Formula 1 World Championship titles?",
+    "answers": ["Michael Schumacher", "Lewis Hamilton", "Juan Manuel Fangio", "Ayrton Senna"],
+    "correctAnswer": "Michael Schumacher"
+  },
+  {
+"QuestionText": "Which hockey player was the first to score 50 goals in 50 NHL games?",
+"answers": ["Wayne Gretzky", "Maurice Richard", "Mario Lemieux", "Bobby Orr"],
+"CorrectAnswer": "Maurice Richard"
+},
+  {
+"QuestionText": "Which country has the most medals at the Winter Olympics?",
+"answers": ["Norway", "Germany", "Russia", "USA"],
+"CorrectAnswer": "Norway"
+},
+  {
+"Question text": "Who do you think was the first to beat Golden Masha three times?",
+"answers": ["Johan Cruyff", "Michel Platini", "Lionel Messi", "Cristiano Ronaldo"],
+    "The right answer": "Michel Platini"
+},
+{
+"Question text": "Which boxer was the first to become something like mira in your weight class?",
+"answers": ["Floyd Mayweather", "Manny Pacquiao", "Sugar Ray Leonard", "Oscar De La Hoya"],
+"Correct answer": "Sugar Ray Leonard"
+},
+{
+"Question text": "Who is your titled leader in the history of the Olympic club?",
+    "answers": ["Michael Phelps", "Mark Spitz", "Ian Thorpe", "Ryan Lochte"],
+"The right answer": "Michael Phelps"
+},
+{
+"Question text": "Which club won the first World Club Championship?",
+"answers": [Corinthians, Barcelona, Real Madrid, Manchester United],
+"Correct answer": Corinthians
+},
+{
+"Question text": "How did tennis player Neil Carr finish with a record 8 Wimbledon men's singles titles?",
+"answers": ["Pete Sampras", "Bjorn Borg", "Roger Federer", "Rafael Nadal"],
+    "Correct answer": "Roger Federer"
+},
+{
+    "Question text": "Who was the first athlete to win 7 gold medals at one Olympics?",
+"answers": ["Mark Spitz", "Michael Phelps", "Carl Lewis", "Usain Bolt"],
+"Correct answer": "Mark Spitz"
+},
+{
+"Question text": "How did the national collection decide to play Kubokariki the most times?",
+"answers": ["Egypt", "Kamrun", "Nigeria", "Ghana"],
+"Correct answer": "Egypt"
+},
+{
+"Question text": "How did cycling become the first to win the Tour de France over and over again?",
+"answers": ["Miguel Indurain", "Eddie Merckx", "Bernard Eno", "Lance Armstrong"],
+"Correct answer": "Miguel Indurain"
+},
+{
+"Question text": "Which athlete became the youngest player in the history of the UFC?",
+"answers": ["John Jones", "Conor McGregor", "Georges St. Pierre", "Anderson Silva"],
+"Correct answer": "John Jones"
+},
+{
+"Question text": "Which football club reached the age of 20 for the first time in the Champions League?",
+"answers": [Real Madrid, Milan, Bayern Munich, Liverpool],
+    "The right answer": Real Madrid},
 ]
